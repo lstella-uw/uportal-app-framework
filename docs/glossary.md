@@ -87,5 +87,5 @@ understand it.
 
 Typically widgets are associated with app directory entries and users can add
 them to their `uPortal-home` home pages. Technically widgets can be implemented
-more directly in particular uPortal Application Frmaework applications. (Support
+more directly in particular uPortal Application Framework applications. (Support
 for widgets is included in the framework.)
